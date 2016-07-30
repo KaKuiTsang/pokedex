@@ -39,5 +39,7 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>pokemon_solid.ttf</string>
 </dict>
 </plist>
